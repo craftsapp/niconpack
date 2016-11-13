@@ -9,5 +9,25 @@
             "wallpaperName": "Wallpaper1",
             "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper1.jpg"
         }, 
+        {
+            "wallpaperName": "Wallpaper2",
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper2.jpg"
+        }, 
+        {
+            "wallpaperName": "Wallpaper3",
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper3.jpg"
+        }, 
+        {
+            "wallpaperName": "Wallpaper4",
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper4.jpg"
+        }, 
+        {
+            "wallpaperName": "Wallpaper5",
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper5.jpg"
+        }, 
+        {
+            "wallpaperName": "Wallpaper6",
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper6.jpg"
+        }
     ]
 }

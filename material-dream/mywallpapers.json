@@ -3,65 +3,20 @@
     "data": [
         {
             "wallpaperName": "Wallpaper1",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper.jpg"
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/material-dream/wallpapers/1.png"
         },
         {
             "wallpaperName": "Wallpaper2",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper1.jpg"
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/material-dream/wallpapers/2.png"
         },
         {
             "wallpaperName": "Wallpaper3",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper2.jpg"
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/material-dream/wallpapers/3.png"
         },
         {
             "wallpaperName": "Wallpaper4",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper3.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper5",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper4.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper6",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper5.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper7",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper6.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper8",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper7.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper9",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper8.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper10",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper9.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper11",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper10.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper12",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper11.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper13",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper12.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper14",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper13.jpg"
-        },
-        {
-            "wallpaperName": "Wallpaper15",
-            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper14.jpg"
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/material-dream/wallpapers/4.png"
         }
-       
         
     ]
 }

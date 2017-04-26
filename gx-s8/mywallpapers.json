@@ -21,6 +21,15 @@
             "wallpaperName": "Wallpaper5",
             "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/gx-s8/wallpapers/5.jpg"
         }
+        ,
+        {
+            "wallpaperName": "Wallpaper6",
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/gx-s8/wallpapers/6.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper7",
+            "wallpaperUrl": "https://raw.githubusercontent.com/craftsapp/niconpack/master/gx-s8/wallpapers/7.jpg"
+        }
        
         
     ]

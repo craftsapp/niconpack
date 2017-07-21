@@ -1,0 +1,54 @@
+{ 
+	"wallpapers": 
+		[
+			{
+				"name": "Wallpaper 1",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 2",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper1.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 3",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper2.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 4",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper3.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 5",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper4.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 6",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper5.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 7",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a1-gold/wallpapers/app_default_wallpaper6.png",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			}
+		]
+}

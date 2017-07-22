@@ -1,0 +1,40 @@
+{ 
+	"wallpapers": 
+		[
+			{
+				"name": "Wallpaper 1",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/gx-s8/wallpapers/1.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 2",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/gx-s8/wallpapers/2.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 3",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/gx-s8/wallpapers/3.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 4",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/gx-s8/wallpapers/4.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 5",
+				"author": "Frome Intenet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/gx-s8/wallpapers/5.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			}
+		]
+}

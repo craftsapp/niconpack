@@ -2,58 +2,44 @@
 	"wallpapers": 
 		[
 			{
-				"name": "Wallpaper 1",
+				"name": "Default",
 				"author": "CraftApp Team",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/vigour-icons/wallpapers/01.jpg",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/enamel-icons/wallpapers/default.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 2",
 				"author": "CraftApp Team",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/vigour-icons/wallpapers/02.jpg",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/enamel-icons/wallpapers/2.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 3",
 				"author": "CraftApp Team",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/vigour-icons/wallpapers/2.jpg",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/enamel-icons/wallpapers/3.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 4",
 				"author": "CraftApp Team",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/vigour-icons/wallpapers/04.jpg",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/enamel-icons/wallpapers/4.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 5",
 				"author": "CraftApp Team",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/vigour-icons/wallpapers/05.jpg",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/enamel-icons/wallpapers/5.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			},
 			{
 				"name": "Wallpaper 6",
 				"author": "CraftApp Team",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/vigour-icons/wallpapers/06.jpg",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 7",
-				"author": "CraftApp Team",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/vigour-icons/wallpapers/07.jpg",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 8",
-				"author": "CraftApp Team",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/vigour-icons/wallpapers/08.jpg",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/enamel-icons/wallpapers/6.jpg",
 				"dimensions": "2400x2400",
 				"copyright": "Credits to its creator"
 			}

@@ -1,110 +1,95 @@
-{ 
-	"wallpapers": 
-		[
-			{
-				"name": "Wallpaper 1",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper.jpg",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 2",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper1.jpg",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 3",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper2.jpg",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 4",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper3.jpg",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 5",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper4.jpg",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 6",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper5.jpg",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 7",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper6.png",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 8",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper7.png",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 9",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper8.png",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 10",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper9.png",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 11",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper10.png",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 12",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper11.png",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 13",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper12.png",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 14",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper13.png",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			},
-			{
-				"name": "Wallpaper 15",
-				"author": "Frome Intenet",
-				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/a3-pixel/wallpapers/app_default_wallpaper14.png",
-				"dimensions": "2400x2400",
-				"copyright": "Credits to its creator"
-			}
-		]
+{
+    "status": 1,
+    "data": [
+        {
+            "wallpaperName": "Wallpaper Default",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/default.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper1",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_1.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper2",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_2.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper3",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_3.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper4",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_4.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper5",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_5.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper6",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_6.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper7",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_7.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper8",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_8.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper9",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_9.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper10",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_10.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper11",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_11.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper12",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_12.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper13",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_13.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper14",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_14.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper15",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_15.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper16",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_16.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper17",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_17.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper18",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_18.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper19",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_19.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper20",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_20.jpg"
+        },
+        {
+            "wallpaperName": "Wallpaper21",
+            "wallpaperUrl": "https://raw.githubusercontent.com/moreappteam/niconpack/master/a3-pixel/wallpapers/p_21.jpg"
+        }
+       
+        
+    ]
 }

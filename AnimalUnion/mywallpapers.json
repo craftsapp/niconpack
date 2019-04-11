@@ -1,1 +1,83 @@
+{ 
+	"wallpapers": 
+		[
+			{
+				"name": "Default Wallpaper",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/AnimalUnion/wallpapers/default.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 1",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/AnimalUnion/wallpapers/01.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 2",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/AnimalUnion/wallpapers/02.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 3",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/wallpaper/03.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 4",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/wallpaper/04.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 5",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/wallpaper/05.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},
+			{
+				"name": "Wallpaper 6",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/AnimalUnion/wallpapers/03.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},			
+			{
+				"name": "Wallpaper 7",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/AnimalUnion/wallpapers/04.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},			
+			{
+				"name": "Wallpaper 8",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/AnimalUnion/wallpapers/05.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},			
+			{
+				"name": "Wallpaper 9",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/AnimalUnion/wallpapers/06.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			},			
+			{
+				"name": "Wallpaper 10",
+				"author": "Frome Internet",
+				"url": "https://raw.githubusercontent.com/craftsapp/niconpack/master/AnimalUnion/wallpapers/07.jpg",
+				"dimensions": "2400x2400",
+				"copyright": "Credits to its creator"
+			}
+		]
+}
 
